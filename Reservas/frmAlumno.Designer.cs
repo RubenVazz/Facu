@@ -293,6 +293,7 @@ namespace Interfaz
             this.btnGuardarAlumno.TabIndex = 29;
             this.btnGuardarAlumno.Text = "Guardar";
             this.btnGuardarAlumno.UseVisualStyleBackColor = true;
+            this.btnGuardarAlumno.Click += new System.EventHandler(this.btnGuardarAlumno_Click_1);
             // 
             // btnCancelarAlumno
             // 

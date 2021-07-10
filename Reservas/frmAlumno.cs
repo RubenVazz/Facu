@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Data.SqlClient;
 using System.Drawing;
 using System.Text;
 using System.Windows.Forms;
@@ -20,7 +21,22 @@ namespace Interfaz
         }
         private void frmProfesor_Load(object sender, EventArgs e)
         {
-            InhabilitarCampos();
+            try
+            {
+                InhabilitarCampos();
+                ActualizarAlumnos();
+            }
+            catch (SqlException esql)
+            {
+                MessageBox.Show("Ha ocurrido un error con la Base de Datos. Favor verifique" + esql.Message + " " +
+                    esql.Source);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Ha ocurrido un error. " + ex.Message + " " +
+                    ex.Source);
+            }
+
         }
 
         private void InhabilitarCampos()
@@ -76,6 +92,8 @@ namespace Interfaz
                 txtDireccionAlumno.Text, txtRucAlumno.Text, 
                 txtCorreoAlumno.Text, txtCelularAlumno.Text, 
                 txtFechaIngresoAlumno.Text, txtPorcentajeDescuentoAlumno.Text,"");
+
+            try
             {
                 if (accionBoton == Accion.Nuevo)
                 {
@@ -87,10 +105,21 @@ namespace Interfaz
                 }
 
                 ActualizarAlumnos();
-                LimpiarCampos();
-                InhabilitarCampos();
+
+            }
+            catch (SqlException esql)
+            {
+                MessageBox.Show("Ha ocurrido un error con la Base de Datos. Favor verifique" + esql.Message + " " +
+                    esql.Source);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Ha ocurrido un error. " + ex.Message + " " +
+                    ex.Source);
             }
 
+                LimpiarCampos();
+                InhabilitarCampos();
         }
         private void ActualizarAlumnos()
         {
@@ -210,6 +239,11 @@ namespace Interfaz
         }
 
         private void btnNuevoAlumno_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnGuardarAlumno_Click_1(object sender, EventArgs e)
         {
 
         }

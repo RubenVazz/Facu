@@ -76,7 +76,7 @@ namespace TP1
                 SqlCommand cmd = new SqlCommand(sentenciaSql, con);
 
                 SqlParameter p1 = new SqlParameter("@codEstadoMatriculacion", alumno.CodEstadoAlumno);
-                p1.SqlDbType = SqlDbType.char;
+                p1.SqlDbType = SqlDbType.Char;
 
                 SqlParameter p2 = new SqlParameter("@FechaUltimoPago", alumno.FechaUltimoPago);
                 p2.SqlDbType = SqlDbType.Date;
@@ -107,7 +107,7 @@ namespace TP1
                 SqlCommand cmd = new SqlCommand(sentenciaSql, con);
 
                 SqlParameter p1 = new SqlParameter("@codEstadoMatriculacion", alumno.CodEstadoAlumno);
-                p1.SqlDbType = SqlDbType.char;
+                p1.SqlDbType = SqlDbType.Char;
 
                 SqlParameter p2 = new SqlParameter("@FechaUltimoPago", alumno.FechaUltimoPago);
                 p2.SqlDbType = SqlDbType.Date;
@@ -137,7 +137,7 @@ namespace TP1
                 SqlCommand cmd = new SqlCommand(sentenciaSql, con);
 
                 SqlParameter p1 = new SqlParameter();
-                p1.SqlDbType = SqlDbType.char;
+                p1.SqlDbType = SqlDbType.Char;
 
                 cmd.Parameters.Add(p1);
                 cmd.ExecuteNonQuery();

@@ -31,3 +31,17 @@ D:\Documentos\FACU\MATERIAS 2021\INTRO C#\TRABAJO PRACTICO\TP1\TP1\Reservas\obj\
 D:\Documentos\FACU\MATERIAS 2021\INTRO C#\TRABAJO PRACTICO\TP1\TP1\Reservas\obj\Debug\netcoreapp3.1\Interfaz.pdb
 D:\Documentos\FACU\MATERIAS 2021\INTRO C#\TRABAJO PRACTICO\TP1\TP1\Reservas\obj\Debug\netcoreapp3.1\Interfaz.genruntimeconfig.cache
 D:\Documentos\FACU\MATERIAS 2021\INTRO C#\TRABAJO PRACTICO\TP1\TP1\Reservas\obj\Debug\netcoreapp3.1\Interfaz.csproj.AssemblyReference.cache
+C:\Users\Ruben\Desktop\Nueva carpeta (6)\TP1\TP1\Reservas\obj\Debug\netcoreapp3.1\Interfaz.csprojAssemblyReference.cache
+C:\Users\Ruben\Desktop\Nueva carpeta (6)\TP1\TP1\Reservas\obj\Debug\netcoreapp3.1\Interfaz.frmAcceso.resources
+C:\Users\Ruben\Desktop\Nueva carpeta (6)\TP1\TP1\Reservas\obj\Debug\netcoreapp3.1\Interfaz.frmAlumno.resources
+C:\Users\Ruben\Desktop\Nueva carpeta (6)\TP1\TP1\Reservas\obj\Debug\netcoreapp3.1\Interfaz.frmEquipos.resources
+C:\Users\Ruben\Desktop\Nueva carpeta (6)\TP1\TP1\Reservas\obj\Debug\netcoreapp3.1\Interfaz.frmMenu.resources
+C:\Users\Ruben\Desktop\Nueva carpeta (6)\TP1\TP1\Reservas\obj\Debug\netcoreapp3.1\Interfaz.frmProfesor.resources
+C:\Users\Ruben\Desktop\Nueva carpeta (6)\TP1\TP1\Reservas\obj\Debug\netcoreapp3.1\Reservas.frmReserva.resources
+C:\Users\Ruben\Desktop\Nueva carpeta (6)\TP1\TP1\Reservas\obj\Debug\netcoreapp3.1\Interfaz.Salas.resources
+C:\Users\Ruben\Desktop\Nueva carpeta (6)\TP1\TP1\Reservas\obj\Debug\netcoreapp3.1\Interfaz.csproj.GenerateResource.cache
+C:\Users\Ruben\Desktop\Nueva carpeta (6)\TP1\TP1\Reservas\obj\Debug\netcoreapp3.1\Interfaz.AssemblyInfoInputs.cache
+C:\Users\Ruben\Desktop\Nueva carpeta (6)\TP1\TP1\Reservas\obj\Debug\netcoreapp3.1\Interfaz.AssemblyInfo.cs
+C:\Users\Ruben\Desktop\Nueva carpeta (6)\TP1\TP1\Reservas\obj\Debug\netcoreapp3.1\Interfaz.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Desktop\Nueva carpeta (6)\TP1\TP1\Reservas\obj\Debug\netcoreapp3.1\Interfaz.dll
+C:\Users\Ruben\Desktop\Nueva carpeta (6)\TP1\TP1\Reservas\obj\Debug\netcoreapp3.1\Interfaz.pdb
