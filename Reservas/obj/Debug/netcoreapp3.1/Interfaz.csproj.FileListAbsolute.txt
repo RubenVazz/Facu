@@ -1,0 +1,33 @@
+C:\Users\Ruben\source\repos\TP1\Reservas\obj\Debug\netcoreapp3.1\Interfaz.csprojAssemblyReference.cache
+C:\Users\Ruben\source\repos\TP1\Reservas\obj\Debug\netcoreapp3.1\Reservas.Form1.resources
+C:\Users\Ruben\source\repos\TP1\Reservas\obj\Debug\netcoreapp3.1\Interfaz.frmAlumno.resources
+C:\Users\Ruben\source\repos\TP1\Reservas\obj\Debug\netcoreapp3.1\Interfaz.frmProfesor.resources
+C:\Users\Ruben\source\repos\TP1\Reservas\obj\Debug\netcoreapp3.1\Interfaz.Salas.resources
+C:\Users\Ruben\source\repos\TP1\Reservas\obj\Debug\netcoreapp3.1\Interfaz.csproj.GenerateResource.cache
+C:\Users\Ruben\source\repos\TP1\Reservas\obj\Debug\netcoreapp3.1\Interfaz.AssemblyInfoInputs.cache
+C:\Users\Ruben\source\repos\TP1\Reservas\obj\Debug\netcoreapp3.1\Interfaz.AssemblyInfo.cs
+C:\Users\Ruben\source\repos\TP1\Reservas\obj\Debug\netcoreapp3.1\Interfaz.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\source\repos\TP1\Reservas\obj\Debug\netcoreapp3.1\Interfaz.frmMenu.resources
+D:\Documentos\FACU\MATERIAS 2021\INTRO C#\TRABAJO PRACTICO\TP1\TP1\Reservas\bin\Debug\netcoreapp3.1\Interfaz.exe
+D:\Documentos\FACU\MATERIAS 2021\INTRO C#\TRABAJO PRACTICO\TP1\TP1\Reservas\bin\Debug\netcoreapp3.1\Interfaz.deps.json
+D:\Documentos\FACU\MATERIAS 2021\INTRO C#\TRABAJO PRACTICO\TP1\TP1\Reservas\bin\Debug\netcoreapp3.1\Interfaz.runtimeconfig.json
+D:\Documentos\FACU\MATERIAS 2021\INTRO C#\TRABAJO PRACTICO\TP1\TP1\Reservas\bin\Debug\netcoreapp3.1\Interfaz.runtimeconfig.dev.json
+D:\Documentos\FACU\MATERIAS 2021\INTRO C#\TRABAJO PRACTICO\TP1\TP1\Reservas\bin\Debug\netcoreapp3.1\Interfaz.dll
+D:\Documentos\FACU\MATERIAS 2021\INTRO C#\TRABAJO PRACTICO\TP1\TP1\Reservas\bin\Debug\netcoreapp3.1\Interfaz.pdb
+D:\Documentos\FACU\MATERIAS 2021\INTRO C#\TRABAJO PRACTICO\TP1\TP1\Reservas\bin\Debug\netcoreapp3.1\TP1.dll
+D:\Documentos\FACU\MATERIAS 2021\INTRO C#\TRABAJO PRACTICO\TP1\TP1\Reservas\bin\Debug\netcoreapp3.1\TP1.pdb
+D:\Documentos\FACU\MATERIAS 2021\INTRO C#\TRABAJO PRACTICO\TP1\TP1\Reservas\obj\Debug\netcoreapp3.1\Interfaz.frmAlumno.resources
+D:\Documentos\FACU\MATERIAS 2021\INTRO C#\TRABAJO PRACTICO\TP1\TP1\Reservas\obj\Debug\netcoreapp3.1\Interfaz.frmEquipos.resources
+D:\Documentos\FACU\MATERIAS 2021\INTRO C#\TRABAJO PRACTICO\TP1\TP1\Reservas\obj\Debug\netcoreapp3.1\Interfaz.frmMenu.resources
+D:\Documentos\FACU\MATERIAS 2021\INTRO C#\TRABAJO PRACTICO\TP1\TP1\Reservas\obj\Debug\netcoreapp3.1\Interfaz.frmProfesor.resources
+D:\Documentos\FACU\MATERIAS 2021\INTRO C#\TRABAJO PRACTICO\TP1\TP1\Reservas\obj\Debug\netcoreapp3.1\Reservas.frmReserva.resources
+D:\Documentos\FACU\MATERIAS 2021\INTRO C#\TRABAJO PRACTICO\TP1\TP1\Reservas\obj\Debug\netcoreapp3.1\Interfaz.Salas.resources
+D:\Documentos\FACU\MATERIAS 2021\INTRO C#\TRABAJO PRACTICO\TP1\TP1\Reservas\obj\Debug\netcoreapp3.1\Interfaz.csproj.GenerateResource.cache
+D:\Documentos\FACU\MATERIAS 2021\INTRO C#\TRABAJO PRACTICO\TP1\TP1\Reservas\obj\Debug\netcoreapp3.1\Interfaz.AssemblyInfoInputs.cache
+D:\Documentos\FACU\MATERIAS 2021\INTRO C#\TRABAJO PRACTICO\TP1\TP1\Reservas\obj\Debug\netcoreapp3.1\Interfaz.AssemblyInfo.cs
+D:\Documentos\FACU\MATERIAS 2021\INTRO C#\TRABAJO PRACTICO\TP1\TP1\Reservas\obj\Debug\netcoreapp3.1\Interfaz.csproj.CoreCompileInputs.cache
+D:\Documentos\FACU\MATERIAS 2021\INTRO C#\TRABAJO PRACTICO\TP1\TP1\Reservas\obj\Debug\netcoreapp3.1\Interfaz.csproj.CopyComplete
+D:\Documentos\FACU\MATERIAS 2021\INTRO C#\TRABAJO PRACTICO\TP1\TP1\Reservas\obj\Debug\netcoreapp3.1\Interfaz.dll
+D:\Documentos\FACU\MATERIAS 2021\INTRO C#\TRABAJO PRACTICO\TP1\TP1\Reservas\obj\Debug\netcoreapp3.1\Interfaz.pdb
+D:\Documentos\FACU\MATERIAS 2021\INTRO C#\TRABAJO PRACTICO\TP1\TP1\Reservas\obj\Debug\netcoreapp3.1\Interfaz.genruntimeconfig.cache
+D:\Documentos\FACU\MATERIAS 2021\INTRO C#\TRABAJO PRACTICO\TP1\TP1\Reservas\obj\Debug\netcoreapp3.1\Interfaz.csproj.AssemblyReference.cache
